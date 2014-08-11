@@ -48,8 +48,8 @@ void setup(){
   pinMode(fadePin,OUTPUT);          // pin that will fade to your heartbeat!
   Serial.begin(115200);             // we agree to talk fast!
   interruptSetup();                 // sets up to read Pulse Sensor signal every 2mS 
-   // UN-COMMENT THE NEXT LINE IF YOU ARE POWERING The Pulse Sensor AT LOW VOLTAGE, 
-   // AND APPLY THAT VOLTAGE TO THE A-REF PIN
+   // UN-COMMENT THE NEXT LINE IF YOU ARE POWERING The Arduino at 5V and the Pulse Sensor AT 3V 
+   // AND APPLY THE LOWER VOLTAGE TO THE A-REF PIN
 //   analogReference(EXTERNAL);   
 }
 
