@@ -1,8 +1,7 @@
 
-#### The second largest heading (an <h2> tag)
+#### The second largest heading 
 …
-###### The 6th largest heading (an <h6> tag)
-
+##### The 6th largest heading
 
 [I'm an inline-style link](https://www.google.com)
 
