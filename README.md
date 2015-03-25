@@ -1,5 +1,5 @@
 
-##### We are migrating this code to 2 separate repositories. This repo, will not be updated.
+##### We are migrating this code repo to 2 separate repositories. This repo, will not be updated.
 …
 #### This is the Code you are looking for:
 
