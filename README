@@ -1,1 +1,8 @@
-This repo contains Arduino code for UNO and the basic Processing Visualizer
+We are migrating this code to 2 seperate repositories. This repo, will not be updated. 
+
+The Code You Should Use:
+Pulse Sensor Arduino Application:
+<a href="https://github.com/WorldFamousElectronics/PulseSensor_Amped_Arduino">/WorldFamousElectronics/PulseSensor_Amped_Arduino </a>
+
+Pulse Sensor Processing Application:
+<a href="https://github.com/WorldFamousElectronics/PulseSensor_Amped_Processing_Visualizer"WorldFamousElectronics/PulseSensor_Amped_Arduino </a>
