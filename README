@@ -1,6 +1,4 @@
-# H1  PS
-## H2  PS
-### H3  PS
-#### H4  PS
-##### H5  PS
-###### H6  PS
+# The largest heading (an <h1> tag)
+## The second largest heading (an <h2> tag)
+…
+###### The 6th largest heading (an <h6> tag)
